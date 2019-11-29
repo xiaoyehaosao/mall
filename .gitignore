@@ -2,3 +2,8 @@
 /*/*.iml
 /*/target
 /*.iml
+/*-*/*.iml
+/mall-service/*.iml
+/mall-common/*.iml
+/mall-export/*.iml
+/mall-web/*.iml
